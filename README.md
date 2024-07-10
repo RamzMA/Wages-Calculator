@@ -1,1 +1,1 @@
-The Wage Calculator app is your go-to tool for effortlessly calculating your weekly and monthly earnings. Designed with simplicity and efficiency in mind, this app helps you stay on top of your finances by providing accurate wage calculations based on your hourly rate and work hours.
+
